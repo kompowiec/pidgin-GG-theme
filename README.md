@@ -7,3 +7,5 @@ copy .purple catalog into:
 >linux
 /home/$USERNAME/.purple/
 run pidgin-->settings-->prefernces-->themes
+## Screenshot
+![screen](https://github.com/kompowiec/pidgin-GG-theme/blob/master/.purple/screenh.png)
