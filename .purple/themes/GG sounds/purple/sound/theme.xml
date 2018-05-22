@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme type="sound" name="GG sound" author="adrian_007/kompowiec2" image="logo.png">
+	<description>Gadu-Gadu sound theme</description>
+	<event name="login" file="Inside your Computer question.wav"/>
+	<event name="logout" file=""/>
+	<event name="im_recv" file="Science exit windows.wav"/>
+	<event name="first_im_recv" file="Science exit windows.wav"/>
+	<event name="send_im" file=""/>
+	<event name="join_chat" file=""/>
+	<event name="left_chat" file=""/>
+	<event name="send_chat_msg" file=""/>
+	<event name="chat_msg_recv" file="Science exit windows.wav"/>
+	<event name="pounce_default" file="blad.wav"/>
+	<event name="got_attention" file="blad.wav"/>
+        <!-- event "nick_said" is not set-->
+</theme>

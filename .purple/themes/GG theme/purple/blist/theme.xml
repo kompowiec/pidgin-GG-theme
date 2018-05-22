@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme type="pidgin buddy list" name="Test Theme" author="a blind man" image="devil.png">
+	<description>this should never be used outside of testing...ever!</description>
+	<icon_theme name="(Default)"/>
+
+	<blist color="#000000"/>
+
+	<selected text_color="#808080" background_color="#000000"/>
+
+	<groups>
+		<expanded background="#ff8041" text_color="#FFFFFF" font=""/>
+		<collapsed background="#ffff9b" text_color="#FFFFFF" font=""/>
+	</groups>
+
+	<buddys>
+		<placement status_icon="0" name="1" emblem="2" protocol_icon="4" buddy_icon="3" show_status="1"/>
+
+		<background color="#ffff9b"/>
+
+		<contact_text font="Purisa" color="#FFA500"/>
+
+		<online_text font="Purisa" color="#000"/>
+		<away_text font="Purisa" color="#000"/>
+		<offline_text font="Purisa" color="#000"/>
+		<idle_text font="AlMateen" color="#000"/>
+
+		<message_text font="Purisa" color="#C0C0C0"/>
+		<message_nick_said_text font="Purisa" color="#ACE1AF"/>
+
+		<status_text font="Purisa" color="#000080"/>
+	</buddys>
+</theme>
