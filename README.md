@@ -13,5 +13,5 @@ copy .purple catalog into:
 run pidgin-->settings-->prefernces-->themes
 ## Screenshot
 ![screen](https://github.com/kompowiec/pidgin-GG-theme/blob/master/.purple/screenh.png)
-==Known issues==
+## Known issues
 Icon tray missing. Proably can't change without appeal to global catalog.
